@@ -52,37 +52,37 @@ Will the system outlive the developers and stakeholders employment?
 # Xcode Project Structure :
 
 
-├─ Domain
-  ├─ Entities
-  ├─ UseCases
+├─ Domain <br/>
+  ├─ Entities<br/>
+  ├─ UseCases<br/>
 
-├─ Application
-  ├─ Scenes
-  	├─  News ( Delivery pattern MVVM )
+├─ Application<br/>
+  ├─ Scenes<br/>
+  	├─  News ( Delivery pattern MVVM )<br/>
 
-├─ Network Platform
-  ├─ Base Api Client
-  ├─ Base Repository
+├─ Network Platform<br/>
+  ├─ Base Api Client<br/>
+  ├─ Base Repository<br/>
  
-  ├─ Services
-	├─ NewsService
+  ├─ Services<br/>
+	├─ NewsService<br/>
 
-  ├─ Respository
-	├─ NewsRepository
+  ├─ Respository<br/>
+	├─ NewsRepository<br/>
 
-├─ Core Platform
-  ├─ Foundation
-  ├─ Extensions
-  ├─ Configuration
-  ├─ Utilities
-  ├─ Network
+├─ Core Platform<br/>
+  ├─ Foundation<br/>
+  ├─ Extensions<br/>
+  ├─ Configuration<br/>
+  ├─ Utilities<br/>
+  ├─ Network<br/>
 
-├─ Resources
-  ├─ Images
-  ├─ Certificates
-  ├─ Localization
-  ├─ Assets
-  ├─ Fonts
+├─ Resources<br/>
+  ├─ Images<br/>
+  ├─ Certificates<br/>
+  ├─ Localization<br/>
+  ├─ Assets<br/>
+  ├─ Fonts<br/>
 
 
 
