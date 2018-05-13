@@ -54,3 +54,67 @@ Will the system outlive the developers and stakeholders employment?
 - MVVM Structure 1 : 
 
 ![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%201.png)
+
+- MVVM Structure 2 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%202.png)
+
+- MVVM Structure 3 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%203.png)
+
+- MVVM Structure 4 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%204.png)
+
+- MVVM Structure 5 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%205.png)
+
+- MVVM Structure 6 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%206.png)
+
+- MVVM Structure 7 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%207.png)
+
+- MVVM Structure 8 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%208.png)
+
+- MVVM Structure 9 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%209.png)
+
+- MVVM Structure 10 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%2010.png)
+
+- MVVM Structure 11 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%2011.png)
+
+- MVVM Structure 12 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%2012.png)
+
+- MVVM Structure 13 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%2013.png)
+
+- MVVM Structure 14 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%2014.png)
+
+- MVVM Structure 15 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%2015.png)
+
+- MVVM Structure 16 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%2016.png)
+
+- MVVM Structure 17 : 
+
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%2017.png)
