@@ -51,4 +51,4 @@ Will the system outlive the developers and stakeholders employment?
 
 # WorkSpace Project Structure :
 
-![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/MVVM%20with%20Clean%20Architecture.png)
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/MVVM%20with%20Clean%20Architecture%20-%201.png)
