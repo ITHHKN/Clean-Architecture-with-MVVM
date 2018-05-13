@@ -51,6 +51,41 @@ Will the system outlive the developers and stakeholders employment?
 
 # Xcode Project Structure :
 
+
+├─ Domain
+  ├─ Entities
+  ├─ UseCases
+
+├─ Application
+  ├─ Scenes
+  	├─  News ( Delivery pattern MVVM )
+
+├─ Network Platform
+  ├─ Base Api Client
+  ├─ Base Repository
+ 
+  ├─ Services
+	├─ NewsService
+
+  ├─ Respository
+	├─ NewsRepository
+
+├─ Core Platform
+  ├─ Foundation
+  ├─ Extensions
+  ├─ Configuration
+  ├─ Utilities
+  ├─ Network
+
+├─ Resources
+  ├─ Images
+  ├─ Certificates
+  ├─ Localization
+  ├─ Assets
+  ├─ Fonts
+
+
+
 - MVVM Structure 1 : 
 
 ![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%201.png)
