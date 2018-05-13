@@ -53,12 +53,12 @@ Will the system outlive the developers and stakeholders employment?
 
 
 ├─ Domain <br/>
-<pre> ├─ Entities<br/>
-<pre> ├─ UseCases<br/>
+ ├─ Entities<br/>
+ ├─ UseCases<br/>
 
 ├─ Application<br/>
- <pre> ├─ Scenes<br/>
-  	<pre><pre> ├─  News ( Delivery pattern MVVM )<br/>
+  ├─ Scenes<br/>
+    ├─  News ( Delivery pattern MVVM )<br/>
 
 ├─ Network Platform<br/>
   ├─ Base Api Client<br/>
