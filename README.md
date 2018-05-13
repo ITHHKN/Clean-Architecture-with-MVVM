@@ -15,12 +15,11 @@ Achieve a high-level separation of concerns by layering. Clean Architecture loo
 
 # Benefits of a Clean Architecture :
 - Flexible
-- Screaming – Use Cases are clearly visible in the project’s structure
 - Testable
 - Easy to understand
 - High Maintainability
 - Could play well with best practices like DDD
-
+- Screaming – Use Cases are clearly visible in the project’s structure
 
 # Drawbacks :
 - complexity
