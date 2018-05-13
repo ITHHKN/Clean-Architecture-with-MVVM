@@ -22,7 +22,7 @@ Achieve a high-level separation of concerns by layering. Clean Architecture loo
 - Screaming – Use Cases are clearly visible in the project’s structure
 
 # Drawbacks :
-- complexity
+- Complexity
 - No Idiomatic Framework Usage – the dependency rule is relentless in this area
 - Learning Curve :  it’s harder to grasp than the other style
 - Indirect - there will be a lot more interfaces than one might expect (I don’t see it as necessarily bad, but I’ve seen people pointing this out)
@@ -49,6 +49,8 @@ Will the system outlive the developers and stakeholders employment?
 - Basically what is your App about and what it can do (Entities, UseCase etc).
 - it doesn't have implementations apart from entities
 
-# WorkSpace Project Structure :
+# Xcode Project Structure :
+
+- MVVM Structure 1 : 
 
 ![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/MVVM%20with%20Clean%20Architecture%20-%201.png)
