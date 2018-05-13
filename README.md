@@ -7,14 +7,14 @@ In this , we will see how we implement a Clean architecture for our iOS applicat
 Achieve a high-level separation of concerns by layering. Clean Architecture looks like a very carefully thought and effective architecture. It makes the big leap of recognizing the mismatch between Use Cases and Entities and puts the former in the driving seat of our system.it also aims for a maximum independence of any frameworks or tools that might stay in the way of application’s testability or their replacement.
 
 
-* * Entities: Which Contain Enterprise-wide Business Rules. 
-* * Use Cases: Which Contain Application-specific Business Rules. 
-* * Interface Adapters: Which Contain Adapters To Peripheral Technologies. Here, You Can Expect MVC, Gateway Implementations 
-* * Frameworks & Drivers: Which Contain Tools Like Databases Or Framework. By Default, You Don’t Code Too Much In This Layer, But It’s Important To Clearly State The Place And Priority That Those Tools Have In Your Architecture.
+* Entities: Which Contain Enterprise-wide Business Rules. 
+* Use Cases: Which Contain Application-specific Business Rules. 
+* Interface Adapters: Which Contain Adapters To Peripheral Technologies. Here, You Can Expect MVC, Gateway Implementations 
+* Frameworks & Drivers: Which Contain Tools Like Databases Or Framework. By Default, You Don’t Code Too Much In This Layer, But It’s Important To Clearly State The Place And Priority That Those Tools Have In Your Architecture.
 
 
 # Benefits of a Clean Architecture :
-   - Flexible
+- Flexible
 - Screaming – Use Cases are clearly visible in the project’s structure
 - Testable
 - Easy to understand
@@ -36,8 +36,7 @@ When to Use Clean Architecture :  Is the team skilled and/or convinced enough
 Will the system outlive major framework releases?
 Will the system outlive the developers and stakeholders employment?
 
-
-# Clean architecture
+# Application Structure 
 
  # Application :
 - delivery pattern e.g (MVVM, MVC, MVP)
