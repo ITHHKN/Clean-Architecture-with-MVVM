@@ -37,13 +37,13 @@ Will the system outlive the developers and stakeholders employment?
 
 
  # Application :
-- delivery pattern e.g (MVVM, MVC, MVP)
-- place for your UIViews and UIViewController
-- completely independent of the Platform
+- Delivery pattern e.g (MVVM, MVC, MVP)
+- Place for your UIViews and UIViewController
+- Completely independent of the Platform
 
 # Platform :
-- concrete implementation of the Domain
-- does hide all implementation details
+- Concrete implementation of the Domain
+- Does hide all implementation details
 
 # Domain : 
 - Basically what is your App about and what it can do (Entities, UseCase etc).
