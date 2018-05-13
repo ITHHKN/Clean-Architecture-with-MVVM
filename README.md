@@ -53,4 +53,4 @@ Will the system outlive the developers and stakeholders employment?
 
 - MVVM Structure 1 : 
 
-![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/MVVM%20with%20Clean%20Architecture%20-%201.png)
+![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20-%201.png)
