@@ -49,5 +49,4 @@ Will the system outlive the developers and stakeholders employment?
 - Basically what is your App about and what it can do (Entities, UseCase etc).
 - it doesn't have implementations apart from entities
 
-
-![alt text](https://raw.githubusercontent.com/ITHHKN/Clean-Architecture-with-MVVM/master/MVVM%20with%20Clean%20Architecture.png"Application MVVM-Clean-Architecture")
+![alt text](https://raw.githubusercontent.com/ITHHKN/Clean-Architecture-with-MVVM/master/MVVM%20with%20Clean%20Architecture.png)
