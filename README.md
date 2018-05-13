@@ -50,4 +50,4 @@ Will the system outlive the developers and stakeholders employment?
 - it doesn't have implementations apart from entities
 
 
-![alt text](MVVM with Clean Architecture.png "Application MVVM-Clean-Architecture")
+![alt text](https://raw.githubusercontent.com/ITHHKN/Clean-Architecture-with-MVVM/master/MVVM%20with%20Clean%20Architecture.png"Application MVVM-Clean-Architecture")
