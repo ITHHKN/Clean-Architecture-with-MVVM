@@ -35,7 +35,6 @@ When to Use Clean Architecture :  Is the team skilled and/or convinced enough
 Will the system outlive major framework releases?
 Will the system outlive the developers and stakeholders employment?
 
-# Application Structure 
 
  # Application :
 - delivery pattern e.g (MVVM, MVC, MVP)
