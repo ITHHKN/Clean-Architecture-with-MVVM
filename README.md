@@ -49,13 +49,13 @@ Will the system outlive the developers and stakeholders employment?
 - Basically what is your App about and what it can do (Entities, UseCase etc).
 - it doesn't have implementations apart from entities
 
-# Xcode Project Structure :
+# Project Structure :
 
 
 ![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/WorkSpace.png)
 
 
+# Xcode Structure :
 
-- MVVM Structure 1 : 
 ![alt text](https://github.com/ITHHKN/Clean-Architecture-with-MVVM/blob/master/screenshots/MVVM%20with%20Clean%20Architecture%20.png)
 
