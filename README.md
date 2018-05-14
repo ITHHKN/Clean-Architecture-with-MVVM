@@ -53,7 +53,7 @@ Will the system outlive the developers and stakeholders employment?
 
 
 ├─ Domain <br/>
-  ├─ Entities<br/>
+  ⋅⋅⋅ ├─ Entities<br/>
  ├─ UseCases<br/>
 
 ├─ Application<br/>
